@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Prasanth 👋 I'm a 🚀 Full Stack developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+
 
 <h1 align="center"> 👋 Hey there, I'm Prasanth Paul!  </h1>
 
