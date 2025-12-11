@@ -12,7 +12,7 @@
 
 ### 🌟 About Me  
 
-<img align="right" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" alt="Data visualization gif" />
+<!-- <img align="right" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" alt="Data visualization gif" /> -->
 
 - 🌱 Currently learning **Data Science** — exploring data visualization, predictive analytics, and machine learning.  
 - 🤝 Looking for opportunities and collaborations in **Data Analysis**.  
